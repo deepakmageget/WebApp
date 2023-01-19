@@ -1,37 +1,64 @@
-The Star And Thank Author License (SATA)
 
-Copyright (c) [Harsh Vijay](https://github.com/iharsh234) <iharsh234@gmail.com>
+# WebPushNotification Module for Email Marketing in Magento2
+# ![WebApp](https://i.ibb.co/DrLGqh8/Screenshot-1.png)
+# Extension Description 
+<table>
+<tr>
+<td>
+  This is module for use email marketing of your magento2 store . it is very helpfull module to send product email template to your registered customer basis on the Customer Email, Customer Country and Customer Group. this module to help Automatic Send product email template sheduled By Day, sheduled By Week and sheduled By Month Selected By Customer Group. 
+</td>
+</tr>
+</table>
 
-Project Url: https://github.com/iharsh234/WebApp
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushNotification
+### Screenshot
+![](https://i.ibb.co/bXshjZM/Screenshot-3.png)
+![](https://i.ibb.co/7K9bbFQ/dsfsdfsdfsdfsdffsdfsdfsdfsd.png)
 
-And wait, the most important, you shall star/+1/like the project(s) in project url
-section above first, and then thank the author(s) in Copyright section.
 
-Here are some suggested ways:
+## How To Add and Edit New Event
+### How to Add New Event Email Template 
+Click Add New Event - Fill Form
 
- - Email the authors a thank-you letter, and make friends with him/her/them.
- - Report bugs or issues.
- - Tell friends what a wonderful project this is.
- - And, sure, you can just express thanks in your mind without telling the world.
+![](https://i.ibb.co/DMFrPbS/45.png)
+![](https://i.ibb.co/gS4RJLT/46.png)
+![](https://i.ibb.co/92PG8Q6/48.png)
+![](https://i.ibb.co/dpWWMsJ/49.png)
+![](https://i.ibb.co/r0Xg1W4/50.png)
+![](https://i.ibb.co/D7DdFry/51.png)
+![](https://i.ibb.co/Mh0hRzG/52.png)
+![](https://i.ibb.co/PjDgmV4/53.png)
 
-Contributors of this project by forking have the option to add his/her name and
-forked project url at copyright and project url sections, but shall not delete
-or modify anything else in these two sections.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+## [Usage](#) 
+
+### Main Feature of WebPushNotification Module : 
+
+The Main Feature Of this Module Is : 
+
+To Use this module and Get Lot of Traffic to your WebApp Using Sending Email Template To Your Store Customer:
+
+- Send Product Email Template
+- Send Any Event Email Template 
+- Send Email By Customer Email
+- Send Email By Customer Group
+- Send Email By Customer Country
+- Send Email By Sheduled on : (`Day, Week, Month`) Autometically
+
+
+## To-do
+- Add BSE (India) Symbol to the current App.
+- Decide comparison models of Stocks. (suggestions are most welcome).
+- Another WebApp, capable of comparing at least 10 stocks.
+
+## Team
+
+[![Deepak Kumar Bind](https://i.ibb.co/2F6BM4T/dsfsdfsdfsd.png)](https://github.com/iharsh234) 
+
+[Harsh Vijay ](https://github.com/deepakmageget)
+
+## [License](#)
+
+MIT © [Deepak Kumar Bind ](https://github.com/deepakmageget)
